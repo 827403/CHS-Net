@@ -3,10 +3,8 @@ CHS-Net: A Deep Learning Framework for Accurate Segmentation of Complex Wind Tur
 
 
 Download
-We put the images  files in Onedrive. If you are interested in Wind Turbine Blade Defect, you can download this dataset by the links show in below.
 
-
- we provide the BaiduNetdisk download link of the dataset.
+We put the images  files in BaiduNetdisk. If you are interested in Wind Turbine Blade Defect, you can download this dataset by the links show in below.
 
 JPEGImages: Link:https://pan.baidu.com/s/18LcleJGJ8Pja6FoYwaor_w?pwd=e83s Token: e83s
 
