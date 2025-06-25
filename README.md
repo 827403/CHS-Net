@@ -8,4 +8,6 @@ We put the images  files in BaiduNetdisk. If you are interested in Wind Turbine 
 
 JPEGImages: Link:https://pan.baidu.com/s/18LcleJGJ8Pja6FoYwaor_w?pwd=e83s Token: e83s
 
+The code is being continuously updated.
+
 If you have any problem with Wind Turbine Blade Defect, please contact us. (Email: bigban@zju.edu.cn)
