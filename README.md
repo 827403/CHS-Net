@@ -47,7 +47,7 @@ CHS-Net is built upon an encoder–decoder segmentation framework and integrates
 
 ### 1. Qualitative Segmentation Results
 
-> Replace the placeholder images below with your actual visualization results from the `results/` folder.
+
 
 <p align="center">
   <img src="results/001_test_predicted.png" alt="Segmentation Result 1" width="30%">
@@ -63,7 +63,7 @@ CHS-Net is built upon an encoder–decoder segmentation framework and integrates
 
 ### 2. Heatmap / Attention Visualization
 
-> Replace the placeholder images below with your actual feature response or attention maps from the `heatmap/` folder.
+
 
 <p align="center">
   <img src="heatmap/heatmap_DJI_0218_02_02.png" alt="Heatmap 1" width="30%">
