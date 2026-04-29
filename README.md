@@ -3,7 +3,7 @@
 > **CHS-Net: A Deep Learning Framework for Accurate Segmentation of Complex Wind Turbine Blade Defects in UAV Imagery**
 
 <p align="center">
-  <img src="results/README_banner_placeholder.png" alt="CHS-Net Banner" width="85%">
+  <img src="net.png" alt="CHS-Net Banner" width="85%">
 </p>
 
 <p align="center">
