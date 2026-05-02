@@ -88,14 +88,14 @@ CHS-Net/
 ├── 4-sd.ipynb              # Experiment / analysis notebook
 ├── UNet.ipynb              # Baseline or comparative notebook
 ├── README.md
-└── ...                     # Other scripts and configs
+└── ...
 
+```
 
----
 
 ## 📢 Future Updates
 
-This repository is currently under continuous maintenance.  
-Additional updates will be made after the related paper is accepted.
+This repository will be continuously updated.  
+More details will be released after the paper is accepted.
 
 Thank you for your interest in CHS-Net.
